@@ -38,7 +38,7 @@ map_params = {
     "ll": ",".join([toponym_longitude, toponym_lattitude]),
     "spn": span,
     "apikey": apikey,
-    "pt": f"{toponym_longitude},{toponym_lattitude}"
+    "pt": f"{toponym_longitude},{toponym_lattitude},pm2rdl"
 
 }
 
